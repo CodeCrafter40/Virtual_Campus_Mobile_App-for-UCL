@@ -69,3 +69,8 @@ As a mobile app developer, I contributed to:
 - **Solution:** Developed a scalable and flexible virtual campus solution, including mobile apps for students, teachers, and administrators. Integrated with Zoom for virtual classrooms and supporting a hybrid learning mode for future adaptability.
 
 ## Snapshots
+![WhatsApp Image 2024-08-28 at 6 24 25 PM (1)](https://github.com/user-attachments/assets/31478240-4c31-4920-a85d-b6ee4d10518f)
+![WhatsApp Image 2024-08-28 at 6 24 24 PM](https://github.com/user-attachments/assets/5699a271-8d89-4ef2-adf6-2d61989dfff0)
+![WhatsApp Image 2024-08-28 at 6 24 26 PM (1)](https://github.com/user-attachments/assets/8678dfe9-1f15-4057-8eaa-d92f5225104c)
+![WhatsApp Image 2024-08-28 at 6 24 25 PM](https://github.com/user-attachments/assets/f58ad3eb-cee6-4f8a-826c-5a8655b7da6f)
+
