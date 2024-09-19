@@ -29,6 +29,17 @@ This project involved the development and deployment of a **Virtual Campus Solut
 
 ## Tech Stack and Integrations
 
+![Flutter](https://img.shields.io/badge/Flutter-3.10.5-blue)
+![Dart](https://img.shields.io/badge/Dart-2.19.6-blue)
+![Firebase](https://img.shields.io/badge/Firebase-9.2.0-yellow)
+![REST API](https://img.shields.io/badge/API-REST-blue)
+![Zoom SDK](https://img.shields.io/badge/Zoom-SDK-4285F4)
+![Android](https://img.shields.io/badge/Android-12.0-green)
+![iOS](https://img.shields.io/badge/iOS-15.0-lightgrey)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF)
+![Node.js](https://img.shields.io/badge/Node.js-16.14.0-green)
+![GraphQL](https://img.shields.io/badge/GraphQL-14.7.0-pink)
+
 - **Technologies Used:** Flutter
 - **Integrations:**
   - Zoom SDK for virtual classroom integration.
